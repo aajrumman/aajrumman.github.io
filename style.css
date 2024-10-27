@@ -1,5 +1,7 @@
 body{
   font-family: "Sriracha", cursive;
+  background-color: #F79696;
+  border: 7px dotted #82BFD1;
 }
 .container-fluid{
   padding-top:150px;
@@ -30,4 +32,20 @@ body{
 }
 .about-container{
   background-color: #F79696;
+}
+.text-custom-color {
+  color: #82BFD1;
+}
+.text-custom-shadow {
+  text-shadow: 2px 2px 5px #F7F789;
+}
+
+.text-justify {
+  text-align: justify;
+}
+.header {
+  text-shadow:2px 2px 5px #36414D
+}
+.subheader {
+  text-shadow:2px 2px 5px #36414D
 }
