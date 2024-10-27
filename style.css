@@ -20,3 +20,11 @@ body{
 .subheader{
   color:#F79696;
 }
+.navbar{
+  background-color: #F7F789;
+  border: 2px solid #36414D;
+  color: #82BFD1;
+}
+.nav-link{
+  color: #82BFD1;
+}
