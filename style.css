@@ -1,3 +1,22 @@
 body{
   font-family: "Sriracha", cursive;
 }
+.container-fluid{
+  padding-top:150px;
+  padding-bottom: 150px;
+  background-color: #F79696;
+}
+.col{
+  background-color: #F7F789;
+  border:3px solid #82BFD1;
+
+}
+/* .border{
+  border: 3px solid #82BFD1;
+} */
+.header{
+  color: #82BFD1;
+}
+.subheader{
+  color:#F79696;
+}
