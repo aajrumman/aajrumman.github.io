@@ -43,9 +43,31 @@ body{
 .text-justify {
   text-align: justify;
 }
+.text-center{
+  text-align: center;
+}
 .header {
   text-shadow:2px 2px 5px #36414D
 }
 .subheader {
   text-shadow:2px 2px 5px #36414D
+}
+.border-custom-shadow{
+  color: #36414D;
+}
+.education{
+  background-color: #82BFD1;
+  border: 2px solid #36414D;
+}
+.border-left-custom {
+  border-left: 8px solid #F79696;
+}
+.circle{
+  background-color: #F7F789;
+
+}
+.circle h3{
+  text-shadow:2px 2px 5px #36414D;
+  color: #F79696;
+
 }
