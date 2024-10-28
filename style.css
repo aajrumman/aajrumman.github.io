@@ -26,6 +26,8 @@ body{
   background-color: #F7F789;
   border: 2px solid #36414D;
   color: #82BFD1;
+  position: sticky;
+  top: 0;
 }
 .nav-link{
   color: #82BFD1;
@@ -70,4 +72,15 @@ body{
   text-shadow:2px 2px 5px #36414D;
   color: #F79696;
 
+}
+.skills{
+  background-color: #82BFD1;
+  border: 2px solid #36414D;
+}
+.skills h1{
+  color: #36414D;
+  text-shadow: 2px 2px 5px #F7F789;
+}
+.skapon{
+  background-color: #82BFD1;
 }
