@@ -98,3 +98,18 @@ body{
   border: 2px solid black;
 
 }
+
+.circle2{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #F79696;
+}
+.footer{
+  background-color: #F7F789;
+  border-top: 2px solid black;
+}
+.footer h1{
+  color: #82BFD1;
+  text-shadow:2px 2px 5px #F79696;
+}
