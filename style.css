@@ -84,3 +84,8 @@ body{
 .skapon{
   background-color: #82BFD1;
 }
+.portfolio h1{
+  color: #82BFD1;
+  text-shadow:2px 2px 5px #F7F789;
+  
+}
