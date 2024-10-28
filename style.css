@@ -8,7 +8,7 @@ body{
   padding-bottom: 150px;
   background-color: #F79696;
 }
-.col{
+.col3{
   background-color: #F7F789;
   border:3px solid #82BFD1;
 
@@ -104,6 +104,7 @@ body{
   width: 100px;
   border-radius: 50%;
   background-color: #F79696;
+  display: inline-block;
 }
 .footer{
   background-color: #F7F789;
